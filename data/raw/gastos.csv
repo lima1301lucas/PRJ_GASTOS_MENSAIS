@@ -9,7 +9,6 @@ Janeiro,Luz,142.21,1,Pix,Variavel
 Janeiro,Agua,89.90,1,Pix,Variavel
 Janeiro,Gas,123.10,1,Debito,Variavel
 Janeiro,Lazer,251.90,6,Credito,Variavel
-Janeiro,Saude,88.19,2,Debito,Variavel
 Janeiro,Outros,83.50,1,Debito,Variavel
 
 Fevereiro,Aluguel,1000.00,1,Pix,Fixo
@@ -35,7 +34,6 @@ Março,Luz,131.40,1,Pix,Variavel
 Março,Agua,89.30,1,Pix,Variavel
 Março,Gas,79.80,1,Debito,Variavel
 Março,Lazer,178.90,4,Credito,Variavel
-Março,Saude,121.25,3,Debito,Variavel
 Março,Outros,209.15,4,Debito,Variavel
 
 Abril,Aluguel,1000.00,1,Pix,Fixo
@@ -48,7 +46,6 @@ Abril,Luz,136.20,1,Pix,Variavel
 Abril,Agua,81.60,1,Pix,Variavel
 Abril,Gas,79.55,1,Debito,Variavel
 Abril,Lazer,218.99,5,Credito,Variavel
-Abril,Saude,111.42,3,Debito,Variavel
 Abril,Outros,279.63,3,Debito,Variavel
 
 Maio,Aluguel,1000.00,1,Pix,Fixo
@@ -61,7 +58,6 @@ Maio,Luz,141.01,1,Pix,Variavel
 Maio,Agua,94.23,1,Pix,Variavel
 Maio,Gas,86.89,1,Debito,Variavel
 Maio,Lazer,198.40,5,Credito,Variavel
-Maio,Saude,111.23,3,Debito,Variavel
 Maio,Outros,234.99,3,Debito,Variavel
 
 Junho,Aluguel,1000.00,1,Pix,Fixo
@@ -99,8 +95,6 @@ Agosto,Transporte,216.41,22,Debito,Variavel
 Agosto,Luz,137.74,1,Pix,Variavel
 Agosto,Agua,91.32,1,Pix,Variavel
 Agosto,Gas,111.86,1,Debito,Variavel
-Agosto,Lazer,172.07,4,Credito,Variavel
-Agosto,Saude,113.93,3,Debito,Variavel
 Agosto,Outros,124.58,3,Debito,Variavel
 
 Setembro,Aluguel,1000.00,1,Pix,Fixo
@@ -113,7 +107,6 @@ Setembro,Luz,134.58,1,Pix,Variavel
 Setembro,Agua,90.41,1,Pix,Variavel
 Setembro,Gas,101.74,1,Debito,Variavel
 Setembro,Lazer,183.93,4,Credito,Variavel
-Setembro,Saude,117.18,3,Debito,Variavel
 Setembro,Outros,142.67,3,Debito,Variavel
 
 Outubro,Aluguel,1000.00,1,Pix,Fixo
@@ -126,7 +119,6 @@ Outubro,Luz,133.07,1,Pix,Variavel
 Outubro,Agua,92.86,1,Pix,Variavel
 Outubro,Gas,96.58,1,Debito,Variavel
 Outubro,Lazer,209.18,5,Credito,Variavel
-Outubro,Saude,121.93,3,Debito,Variavel
 Outubro,Outros,154.41,3,Debito,Variavel
 
 Novembro,Aluguel,1000.00,1,Pix,Fixo
@@ -139,7 +131,6 @@ Novembro,Luz,135.18,1,Pix,Variavel
 Novembro,Agua,93.07,1,Pix,Variavel
 Novembro,Gas,97.41,1,Debito,Variavel
 Novembro,Lazer,194.58,4,Credito,Variavel
-Novembro,Saude,123.67,3,Debito,Variavel
 Novembro,Outros,189.86,4,Debito,Variavel
 
 Dezembro,Aluguel,1000.00,1,Pix,Fixo
@@ -152,5 +143,4 @@ Dezembro,Luz,146.86,1,Pix,Variavel
 Dezembro,Agua,97.32,1,Pix,Variavel
 Dezembro,Gas,104.58,1,Debito,Variavel
 Dezembro,Lazer,282.74,7,Credito,Variavel
-Dezembro,Saude,116.18,3,Debito,Variavel
 Dezembro,Outros,212.93,4,Debito,Variavel
